@@ -1,0 +1,13 @@
+names:
+- batter
+- home plate
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: batter-and-home-plate
+  url: https://universe.roboflow.com/chaesubin/batter-and-home-plate/dataset/1
+  version: 1
+  workspace: chaesubin
+test: ../test/images
+train: train/images
+val: valid/images

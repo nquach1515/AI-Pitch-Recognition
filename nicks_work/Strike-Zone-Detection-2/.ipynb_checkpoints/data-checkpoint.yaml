@@ -1,0 +1,13 @@
+names:
+- '0'
+- '1'
+nc: 2
+roboflow:
+  license: CC BY 4.0
+  project: strike-zone-detection
+  url: https://universe.roboflow.com/project/strike-zone-detection/dataset/2
+  version: 2
+  workspace: project
+test: ../test/images
+train: train/images
+val: valid/images
