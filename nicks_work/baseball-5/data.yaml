@@ -1,0 +1,16 @@
+names:
+- base
+- baseball
+- baseball_glove
+- bat
+- shoe
+nc: 5
+roboflow:
+  license: CC BY 4.0
+  project: baseball-0vbbm
+  url: https://universe.roboflow.com/baseball-0zxv7/baseball-0vbbm/dataset/5
+  version: 5
+  workspace: baseball-0zxv7
+test: ../test/images
+train: train/images
+val: valid/images
